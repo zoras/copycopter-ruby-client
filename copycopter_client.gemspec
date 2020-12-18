@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'bourne'
   s.add_development_dependency 'cucumber', '~> 0.10.0'
   s.add_development_dependency 'i18n'
-  s.add_development_dependency 'rails', '~> 3.1.0'
+  s.add_development_dependency 'rails', '~> 3.2.12'
   s.add_development_dependency 'rake', '0.9.2'
   s.add_development_dependency 'rspec', '~> 2.3'
   s.add_development_dependency 'sham_rack'
